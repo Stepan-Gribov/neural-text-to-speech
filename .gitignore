@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+out/
+wav_segments/
+rolling_audio/
+*.wav
+*.mp4
+*.srt
+*.pt
